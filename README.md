@@ -19,7 +19,7 @@
 
 ## 📫 How to Reach Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shreeram-ramchandran-392477253/)  
-📧 Email: your-email@example.com  
+📧 Email: shreeramramchandran@gmail.com  
 
 ## ⚡ Fun Fact  
 - 🚀 I love building AI models and exploring cloud-based solutions  
